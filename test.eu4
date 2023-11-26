@@ -1,0 +1,4 @@
+test {
+				do_not_integrate=ARA
+				do_not_integrate=CAS		
+				}
