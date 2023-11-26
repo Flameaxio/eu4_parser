@@ -7,8 +7,6 @@
 #include <unordered_map>
 #include <algorithm>
 
-// TODO: Resolve the issue with repeated keys
-
 namespace Parsers
 {
     EU4Parser::EU4Parser(std::string path)
